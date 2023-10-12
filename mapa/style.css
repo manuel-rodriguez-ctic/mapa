@@ -17,6 +17,10 @@ div.video {width: 90%;margin:auto;background-color: white;margin-bottom: 25px;}
 img.displayed {display: block;margin-left: auto;margin-right: auto; width:100%;}
 #mapandlegend{width:1300px;}
 
+#mapster_wrap_0 {
+  margin-top: -120px;
+}
+
 /* Legend in map */
   #patrimonylist {
     width: 900px;
